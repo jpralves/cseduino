@@ -17,7 +17,7 @@ Board wiht components:
 
 ## The v4 Board:
 
-Board wiht components:
+Board with components:
 
 ![cseduinov4-board-comp](boards/2-layer/cseduinov4_3d_4.jpg)
 
