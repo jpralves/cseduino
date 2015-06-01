@@ -1,0 +1,147 @@
+Cmp-Mod V01 Genere par PcbNew le Sex 03 Abr 2015 22:25:39 WEST
+
+BeginCmp
+TimeStamp = 551E71DB
+Path = /551E6A6A
+Reference = C1;
+ValeurCmp = CAPAPOL;
+IdModule  = Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 551EC4FF
+Path = /551E69ED
+Reference = C2;
+ValeurCmp = CAPAPOL;
+IdModule  = Capacitors_ThroughHole:C_Radial_D6.3_L11.2_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E7213
+Path = /551E6211
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E721E
+Path = /551E62D1
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Discret:C1;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E7251
+Path = /551E6E09
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E7278
+Path = /551E603B
+Reference = IC1;
+ValeurCmp = ATMEGA328-P;
+IdModule  = Sockets_DIP:DIP-28__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E7289
+Path = /551E740B
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E72A6
+Path = /551E60A4
+Reference = P2;
+ValeurCmp = CONN_01X14;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x14;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E72B9
+Path = /551E792D
+Reference = P3;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E72D0
+Path = /551E8E01
+Reference = P4;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E72E5
+Path = /551EA0DA
+Reference = P5;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E72F1
+Path = /551E6D98
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E72FD
+Path = /551E9B63
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E730A
+Path = /551EA9DC
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = Discret:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E731C
+Path = /551E614A
+Reference = U1;
+ValeurCmp = 7805;
+IdModule  = Discret:LM78XX;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E7355
+Path = /551E619A
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = Crystals:Crystal_HC50-U_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 551E7229
+Path = /551EA5E1
+Reference = C5;
+ValeurCmp = C;
+IdModule  = Discret:C2;
+EndCmp
+
+BeginCmp
+TimeStamp = 551EC555
+Path = /551E7627
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+EndListe
