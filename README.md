@@ -23,10 +23,10 @@ Board wiht components:
 
 Front of the board:
 
-![cseduinov3-board](boards/2-layer/cseduinov4_3d_1.jpg)
+![cseduinov3-board](boards/2-layer/cseduinov4_3d_2.jpg)
 
 Back of the board:
 
-![cseduinov3-board-back](boards/2-layer/cseduinov4_3d_2.jpg)
+![cseduinov3-board-back](boards/2-layer/cseduinov4_3d_3.jpg)
 
 
