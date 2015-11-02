@@ -6,12 +6,12 @@ See more info at http://jpralves.net/cseduino/
 
 This tree is organized in the following way:
 
-[projects](projects) - projects created with CSEDuino board
-[boards](boards) - Designs of PCB boards for CSEduino v3 and v4
+- [projects](projects) - projects created with CSEDuino board
+- [boards](boards) - Designs of PCB boards for CSEduino v3 and v4 (Kicad Format)
 
 ## The V3 Board:
 
-Board wiht components:
+Board with components:
 
 ![cseduinov3-board-comp](boards/1-layer/cseduinov3-board-comp.jpg)
 
