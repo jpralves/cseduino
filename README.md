@@ -8,6 +8,7 @@ This tree is organized in the following way:
 
 - [projects](projects) - projects created with CSEDuino board
 - [boards](boards) - Designs of PCB boards for CSEduino v3 and v4 (Kicad Format)
+- [workshop](workshop) - Exercises for Workshops
 
 ## The V3 Board:
 
