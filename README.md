@@ -1,4 +1,4 @@
-# cseduino
+# CSEduino
 
 Build your Arduino from scratch - projects
 
