@@ -31,7 +31,7 @@
 
   ----------------------------------------------------------------------- */
 
-const int buttonPin = 8;
+const int buttonPin = 12;
 const int ledPin =  13;
 
 int buttonState = 0; 
