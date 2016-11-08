@@ -1,0 +1,5 @@
+summary: CSEduino, a very low cost DIY Arduino like board
+site: http://jpralves.net/cseduino/
+color: black
+bom: https://github.com/jpralves/cseduino/tree/master/boards/2-layer/1-click-bom.tsv
+gerbers: https://github.com/jpralves/cseduino/tree/master/boards/2-layer/output
