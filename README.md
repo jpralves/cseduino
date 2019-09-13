@@ -6,7 +6,7 @@ See more info at http://jpralves.net/cseduino/
 
 This tree is organized in the following way:
 
-- ~~~[projects](projects) - projects created with CSEDuino board~~~ (Not yet)
+- ~[projects](projects) - projects created with CSEDuino board~ (Not yet)
 - [boards](boards) - Designs of PCB boards for CSEduino v3 and v4 (Kicad Format)
 - [workshop](workshop) - Exercises for Workshops
 
